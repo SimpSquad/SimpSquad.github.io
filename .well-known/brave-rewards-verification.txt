@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: simpsquad.github.io
+Token: 84e9f78dfcb61d2ce76809e3fd3abd25ecb642b4ff3bfd266e21c856e8d827fb
